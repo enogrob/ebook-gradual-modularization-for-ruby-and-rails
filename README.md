@@ -18,14 +18,14 @@ It encourages Rails developers to evolve into better software engineers through 
 
 - [x] Acknowledgments  
 - [x] Introduction  
-- [ ] 1. The Problems with Component-based Rails and Why Today’s Tooling Is More Powerful  
-- [ ] 2. Getting started with packaging in a Rails application  
-- [ ] 3. Making Components Work with Packages  
-- [ ] 4. Beyond Dependencies: Making More Modularization Gradual  
-- [ ] 5. Dependency Violation Management Refactorings  
-- [ ] 6. Privacy Violation Management Refactorings  
-- [ ] 7. RubyAtScale  
-- [ ] 8. Measuring Modularization Progress  
-- [ ] 9. How to Create Modularization Progress  
-- [ ] 10. Polyglot Persistence, Polyglot Approaches  
-- [ ] 11. Archive: Gradual Modularization — A New Model for Application Composition
+- [x] Chapter 1. The Problems with Component-based Rails and Why Today’s Tooling Is More Powerful  
+- [ ] Chapter 2. Getting started with packaging in a Rails application  
+- [ ] Chapter 3. Making Components Work with Packages  
+- [ ] Chapter 4. Beyond Dependencies: Making More Modularization Gradual  
+- [ ] Chapter 5. Dependency Violation Management Refactorings  
+- [ ] Chapter 6. Privacy Violation Management Refactorings  
+- [ ] Chapter 7. RubyAtScale  
+- [ ] Chapter 8. Measuring Modularization Progress  
+- [ ] Chapter 9. How to Create Modularization Progress  
+- [ ] Chapter 10. Polyglot Persistence, Polyglot Approaches  
+- [ ] chapter 11. Archive: Gradual Modularization — A New Model for Application Composition
